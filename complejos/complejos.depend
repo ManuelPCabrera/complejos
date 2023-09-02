@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1693679560 source:d:\facultad\3er año\programacion orientada a objetos\programas\guia 2-\complejos\main.cpp
+	<iostream>
+	"complejo.h"
+
+1693679560 source:d:\facultad\3er año\programacion orientada a objetos\programas\guia 2-\complejos\complejo.cpp
+	"complejo.h"
+	<iostream>
+
+1693679197 d:\facultad\3er año\programacion orientada a objetos\programas\guia 2-\complejos\complejo.h
+	<iostream>
+
